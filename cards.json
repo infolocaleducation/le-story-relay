@@ -1,0 +1,12 @@
+[
+  { "no": "01", "title": "高校の総探支援（田川探究）", "enabled": true },
+  { "no": "02", "title": "GOTOJI Compass", "enabled": true },
+  { "no": "03", "title": "地域リーダー育成事業", "enabled": true },
+  { "no": "04", "title": "苅田町未来のジブン探究所", "enabled": true },
+  { "no": "05", "title": "たがわ教育フェス", "enabled": true, "note": "10/3-4開催の日付入り。開催後は enabled:false にして動画更新まで外す" },
+  { "no": "06", "title": "地域イベント", "enabled": true },
+  { "no": "07", "title": "中学生グローバル研修", "enabled": true },
+  { "no": "08", "title": "企業研修", "enabled": true },
+  { "no": "09", "title": "THE CHALLENGER", "enabled": true },
+  { "no": "10", "title": "Local Education（本体紹介）", "enabled": true }
+]
