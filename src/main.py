@@ -19,7 +19,7 @@ ROOT = Path(__file__).resolve().parent.parent
 JST = datetime.timezone(datetime.timedelta(hours=9))
 
 # この日にカード01(enabled先頭)を投稿し、以降1日1枚ずつ循環する
-ANCHOR = datetime.date(2026, 8, 15)
+ANCHOR = datetime.date(2026, 8, 23)
 
 
 def load_enabled_cards() -> list[dict]:
