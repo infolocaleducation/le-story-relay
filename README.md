@@ -14,7 +14,7 @@
 
 | ワークフロー | 内容 |
 |---|---|
-| `daily-post.yml` | 毎朝 8:00/8:25/8:50 JST の3回起動（遅延・スキップ保険）。`output/last_posted.txt` の対象日マーカーで最初の成功1回だけ投稿 |
+| `daily-post.yml` | 毎朝 8:07/8:37/9:13/10:42 JST の4回起動（GitHub cronの遅延・スキップ保険）。`output/last_posted.txt` の対象日マーカーで最初の成功1回だけ投稿 |
 | `refresh-ig-token.yml` | 毎週月曜にトークン期限をチェック。残り21日未満で自動更新（`GH_PAT` 登録時）またはIssueでリマインド |
 
 ## セットアップ（Actions Secrets）
